@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'DEMO_KEY';  // Replace with your NASA API key
+const API_KEY = 'NzeR8YQWR8KAP2jDI30EgUEOOXdnIoXtMDvAZUYy';  
 const BASE_URL = 'https://api.nasa.gov/planetary/apod';
 
 export const fetchNasaData = async () => {
